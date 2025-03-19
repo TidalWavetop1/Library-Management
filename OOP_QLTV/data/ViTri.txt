@@ -1,0 +1,34 @@
+000;000;000;000
+111;Khu vực A;Kệ 1;Hàng 1
+112;Khu vực A;Kệ 1;Hàng 2
+121;Khu vực A;Kệ 2;Hàng 1
+122;Khu vực A;Kệ 2;Hàng 2
+211;Khu vực B;Kệ 1;Hàng 1
+212;Khu vực B;Kệ 1;Hàng 2
+221;Khu vực B;Kệ 2;Hàng 1
+222;Khu vực B;Kệ 2;Hàng 2
+213;Khu vực B;Kệ 1;Hàng 3
+214;Khu vực B;Kệ 1;Hàng 4
+233;Khu vực B;Kệ 3;Hàng 3
+242;Khu vực B;Kệ 4;Hàng 2
+244;Khu vực B;Kệ 4;Hàng 4
+251;Khu vực B;Kệ 5;Hàng 1
+265;Khu vực B;Kệ 6;Hàng 5
+311;Khu vực C;Kệ 1;Hàng 1
+312;Khu vực C;Kệ 1;Hàng 2
+321;Khu vực C;Kệ 2;Hàng 1
+322;Khu vực C;Kệ 2;Hàng 2
+325;Khu vực C;Kệ 2;Hàng 5
+411;Khu vực D;Kệ 1;Hàng 1
+412;Khu vực D;Kệ 1;Hàng 2
+421;Khu vực D;Kệ 2;Hàng 1
+422;Khu vực D;Kệ 2;Hàng 2
+511;Khu vực E;Kệ 1;Hàng 1
+512;Khu vực E;Kệ 1;Hàng 2
+521;Khu vực E;Kệ 2;Hàng 1
+522;Khu vực E;Kệ 2;Hàng 2
+523;E;2;9
+116;1;1;1
+166;1;1;1
+188;5;5;5
+199;1;1;1

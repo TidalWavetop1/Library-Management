@@ -1,0 +1,21 @@
+NXB001;Penguin Books
+NXB002;HarperCollins
+NXB003;Hachette Livre
+NXB004;Oxford University Press
+NXB005;Random House
+NXB006;Macmillan
+NXB007;Scholastic
+NXB008;Simon & Schuster
+NXB009;Bloomsbury Publishing
+NXB010;Knopf Doubleday Publishing Group
+NXB011;Pearson Education
+NXB012;Wiley
+NXB013;Cambridge University Press
+NXB014;Routledge
+NXB015;University of Chicago Press
+NXB016;Alfred A. Knopf
+NXB017;Farrar, Straus and Giroux
+NXB018;Tuoi tre
+NXB019;8th century BC
+1234;ppp
+1235;testNXB
